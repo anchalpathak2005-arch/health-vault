@@ -1,0 +1,15 @@
+[
+  {
+    "id": "1788604184045",
+    "type": "Prescription",
+    "title": "bllod test",
+    "doctor": "dr sharma",
+    "date": "32026-02-12",
+    "issue": "fever",
+    "file": {
+      "name": "Screenshot 2026-09-05 at 3.50.11â¯PM.png",
+      "type": "image/png",
+      "path": "/uploads/e5ff38502f3747c8a0f326d43b9dc288"
+    }
+  }
+]

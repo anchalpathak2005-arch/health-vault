@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1788604117647",
+    "name": "Paracetamol",
+    "dose": "500mg",
+    "time": "11:00",
+    "status": "Taken",
+    "takenAt": "05/09/2026, 16:03:12",
+    "missedAt": null,
+    "expiryDate": "2027-12-23",
+    "history": [
+      {
+        "status": "Taken",
+        "time": "05/09/2026, 16:03:12"
+      }
+    ]
+  }
+]
