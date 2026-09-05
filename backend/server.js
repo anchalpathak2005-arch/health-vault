@@ -274,8 +274,9 @@ app.patch("/api/medicines/:id/status", (req, res) => {
 
 app.use("/uploads", express.static(uploadsFolder));
 
-app.listen(PORT, () => {
-  console.log(
-    `Health Vault Backend running on http://localhost:${PORT}`
-  );
+const PORT = process.env.PORT || 5001;
+
+app.listen(PORT, "0.0.0.0", () => {
+  console.log(`Health Vault Backend running on port ${PORT}`);
 });
+  
